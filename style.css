@@ -2,3 +2,21 @@
     float: right;
     width: 530px;
   }
+  body{
+    background-color: #E0E0E2;
+    padding: 12px;
+  }
+  span, h2{
+    color: #FA9F42;
+    font-size: 0.75em;
+    
+  }
+  h1{
+    color: blue;
+  }
+  h2{
+    color: grey;
+  }
+  div{
+    margin: 4px;
+  }
